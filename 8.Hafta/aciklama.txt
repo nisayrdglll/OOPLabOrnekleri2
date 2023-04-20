@@ -1,0 +1,6 @@
+belirlenen sayıda kart için kart eşleştirme oyunu yapılacaktır.
+
+Kart için user control olusturulmalidir.
+
+Oyunu kontrol eden clsOyun isimli sınıf oluşturulmalıdır
+
